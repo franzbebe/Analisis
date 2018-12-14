@@ -1,0 +1,16 @@
+c:\users\thamayo\documents\visual studio 2012\Projects\MiProyecto\MiProyecto\bin\Debug\MiProyecto.exe.config
+c:\users\thamayo\documents\visual studio 2012\Projects\MiProyecto\MiProyecto\bin\Debug\MiProyecto.exe
+c:\users\thamayo\documents\visual studio 2012\Projects\MiProyecto\MiProyecto\bin\Debug\MiProyecto.pdb
+c:\users\thamayo\documents\visual studio 2012\Projects\MiProyecto\MiProyecto\obj\Debug\MiProyecto.csprojResolveAssemblyReference.cache
+c:\users\thamayo\documents\visual studio 2012\Projects\MiProyecto\MiProyecto\obj\Debug\MiProyecto.Form1.resources
+c:\users\thamayo\documents\visual studio 2012\Projects\MiProyecto\MiProyecto\obj\Debug\MiProyecto.Properties.Resources.resources
+c:\users\thamayo\documents\visual studio 2012\Projects\MiProyecto\MiProyecto\obj\Debug\MiProyecto.csproj.GenerateResource.Cache
+c:\users\thamayo\documents\visual studio 2012\Projects\MiProyecto\MiProyecto\obj\Debug\MiProyecto.exe
+c:\users\thamayo\documents\visual studio 2012\Projects\MiProyecto\MiProyecto\obj\Debug\MiProyecto.pdb
+C:\Users\thamayo\Documents\Visual Studio 2012\Projects\MiProyecto\MiProyecto\obj\Debug\MiProyecto.Producto.resources
+C:\Users\thamayo\Documents\Visual Studio 2012\Projects\MiProyecto\MiProyecto\obj\Debug\MiProyecto.Cliente.resources
+C:\Users\thamayo\Documents\Visual Studio 2012\Projects\MiProyecto\MiProyecto\obj\Debug\MiProyecto.Empleado.resources
+C:\Users\thamayo\Documents\Visual Studio 2012\Projects\MiProyecto\MiProyecto\obj\Debug\MiProyecto.Proveedor.resources
+C:\Users\thamayo\Documents\Visual Studio 2012\Projects\MiProyecto\MiProyecto\obj\Debug\MiProyecto.Reporte.resources
+C:\Users\thamayo\Documents\Visual Studio 2012\Projects\MiProyecto\MiProyecto\obj\Debug\MiProyecto.Venta.resources
+C:\Users\thamayo\Documents\Visual Studio 2012\Projects\MiProyecto\MiProyecto\obj\Debug\MiProyecto.Compras.resources
